@@ -1,6 +1,6 @@
 # Smart Home API
 
-Due to SCC maintainance, the users part is not yet added.
+Due to SCC maintainance, the users part and github actions is not yet added.
 
 ## Documentation
 
