@@ -8,6 +8,7 @@
 The storage part is not yet implemented. Only error messages, input validation and endpoints are defined.
 
 This documendation took this [repo](https://github.com/lgc-NB2Dev/YetAnotherPicSearch) as reference.
+ChatGPT o1 model is used for generating code. (AI not invloved in designing)
 
 Github aciton included for automatically running `test_app.py`.
 ### **Features:**
