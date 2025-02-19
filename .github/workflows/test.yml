@@ -1,9 +1,12 @@
 name: Run Pytest on Commit (Debian 12)
 
 on:
-  push:
-    branches:
-      - main
+    push:
+      branches:
+        - main
+      paths:
+        - 'app.py'
+        - 'test_app.py'
 
 jobs:
   test:
