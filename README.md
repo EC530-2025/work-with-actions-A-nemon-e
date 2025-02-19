@@ -7,7 +7,7 @@
 ## **Overview**
 The storage part is not yet implemented. Only error messages, input validation and endpoints are defined.
 
-This documendation took this [repo](https://github.com/lgc-NB2Dev/YetAnotherPicSearch) as reference.
+This documentation took this [repo](https://github.com/lgc-NB2Dev/YetAnotherPicSearch) as reference.
 ChatGPT o1 model is used for generating code. (AI not invloved in designing)
 
 Github aciton included for automatically running `test_app.py`.
@@ -43,7 +43,7 @@ All API endpoints use JSON format for data transmission. (storage is not yet imp
     "name": "Seaside Villa",
     "lat": 30.5,
     "lon": 120.1,
-    "addr": "Beverly Hills, CA",
+    "addr": "Some addr",
     "uid": "house001",
     "floors": 3,
     "size": 200
@@ -110,7 +110,7 @@ All API endpoints use JSON format for data transmission. (storage is not yet imp
   ```json
   {
     "uid": "house001",
-    "name": "Modern Villa"
+    "name": "HouseNo1"
   }
   ```
 
