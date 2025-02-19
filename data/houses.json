@@ -1,0 +1,11 @@
+[
+    {
+        "uid": "fe76c6cf-8501-4a53-9d5f-07880c4f1176",
+        "name": "Allston1",
+        "lat": 3.903,
+        "lon": 10.4001,
+        "addr": "1 Some Rd",
+        "floors": 3,
+        "size": 120
+    }
+]
